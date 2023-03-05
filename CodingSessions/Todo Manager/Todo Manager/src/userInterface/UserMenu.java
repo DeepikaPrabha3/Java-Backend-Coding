@@ -58,7 +58,7 @@ public class UserMenu {
     public static void taskMenu(Scanner sc, TaskService taskService, String email){
         int taskId;
         String taskTitle,taskText,taskAssignee;
-        boolean isTaskCompleted;
+        boolean isTaskCompleted=false;
 
         boolean flag=true;
         do{
