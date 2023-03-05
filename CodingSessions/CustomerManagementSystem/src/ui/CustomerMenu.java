@@ -1,5 +1,6 @@
 package ui;
 
+import database.CustomerDBConnection;
 import database.CustomerDatabase;
 import model.Customer;
 import service.CustomerService;
@@ -8,7 +9,8 @@ import java.util.Scanner;
 
 public class CustomerMenu {
     public static void main(String[] args) {
-        CustomerDatabase customerDatabase =new CustomerDatabase();
+        //CustomerDatabase customerDatabase =new CustomerDatabase();
+        CustomerDBConnection customerDatabase =new CustomerDBConnection();
         CustomerService customerService = new CustomerService(customerDatabase);
         String email, pwd, phone, city, name;
         boolean flag = true;

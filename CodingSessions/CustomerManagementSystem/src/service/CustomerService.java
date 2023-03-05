@@ -1,14 +1,16 @@
 package service;
 
+import database.CustomerDBConnection;
 import database.CustomerDatabase;
 import model.Customer;
 
 import java.util.List;
 
 public class CustomerService {
-    private CustomerDatabase customerDatabase ;
+    //private CustomerDatabase customerDatabase ;
+    private CustomerDBConnection customerDatabase ;
 
-    public CustomerService(CustomerDatabase customerDatabase) {
+    public CustomerService(CustomerDBConnection customerDatabase) {
         this.customerDatabase = customerDatabase;
     }
     public List<Customer> getAllCustomers() throws Exception {
