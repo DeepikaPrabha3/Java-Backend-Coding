@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01dbf1be-0612-49ce-8be3-a5b7a539adeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/Java-Backend-Coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/CustomerManagementSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/out/production/CustomerManagementSystem/database/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/out/production/CustomerManagementSystem/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/out/production/CustomerManagementSystem/ui/CustomerMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBCDemoCode/CodingSession1_JDBCDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JDBCDemoCode/JDBCDemoCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Todo Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/dao/DBConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/dao/TaskDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/dao/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/model/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/service/TaskService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Todo Manager/userInterface/UserMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/TaskDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/userInterface/UserMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingSession/CustomerManagementSystem/out/production/CustomerManagementSystem/database/CustomerDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/out/production/CustomerManagementSystem/database/CustomerDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../CodingSession/CustomerManagementSystem/out/production/CustomerManagementSystem/service/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../CustomerManagementSystem/out/production/CustomerManagementSystem/service/CustomerService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MawrzpwH07wmOB7NVoYEEL01rS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/HP/Downloads/mysql-connector-j-8.0.32.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01dbf1be-0612-49ce-8be3-a5b7a539adeb" name="Changes" comment="" />
+      <created>1678019212070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678019212070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

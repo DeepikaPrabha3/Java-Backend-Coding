@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodingSessions/CustomerManagementSystem/CustomerManagementSystem.iml" filepath="$PROJECT_DIR$/CodingSessions/CustomerManagementSystem/CustomerManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodingSessions/JDBCDemoCode/JDBCDemoCode.iml" filepath="$PROJECT_DIR$/CodingSessions/JDBCDemoCode/JDBCDemoCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Backend-Coding.iml" filepath="$PROJECT_DIR$/.idea/Java-Backend-Coding.iml" />
+    </modules>
+  </component>
+</project>
